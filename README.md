@@ -1,3 +1,5 @@
+Verilog_Compressors:
+
 This repository contains Verilog implementations of various exact (accurate) 4:2 compressors, each with 5 inputs and 3 outputs. These compressors have been selected from recent literature and are widely used in high-speed arithmetic circuits, especially in multipliers.
 
 All designs have been implemented using Verilog HDL and synthesized/simulated on the Vivado Design Suite (Version 2023.2).
